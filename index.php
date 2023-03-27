@@ -23,7 +23,7 @@
 </html>
 
 <?php
-if ($_POST['submit']) {
+if (isset($_POST['submit'])) {
     $tinggi = $_POST['tinggi'];
     $lebar = $_POST['lebar'];
     echo "<table>";
