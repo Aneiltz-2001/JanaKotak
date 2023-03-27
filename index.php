@@ -2,10 +2,8 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jana KOTAK</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 
 
@@ -21,10 +19,7 @@
             <input type="sumbit" name="submit" value="Jana" id="submit">
             <br><br>
         </form>
-        <p>Selepas Memasukan Nombor sila tekan Button Jana</p>
     </body>
-
-
 </html>
 
 <?php
