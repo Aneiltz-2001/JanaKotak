@@ -16,7 +16,7 @@
             <label for="lebar">Lebar :</label>
             <input type="number" name="lebar" id="lebar" size="5">
             <br><br>
-            <input type="sumbit" name="submit" value="Jana" id="submit">
+            <input type="submit" name="submit" id="submit" value="Jana" >
             <br><br>
         </form>
     </body>
